@@ -10,7 +10,7 @@ Passionate about everything regarding technology, I have always been an enthusia
 
 <h2 align="left"><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXhmbGU4cmVidms5Mm40bHA4ZjBnbTg1ZXl5ZXhuNzNycTVuNDI1NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/2zg8ss8hHpTeQynwbL/giphy.gif" height="60px"> You can contact me on</h2>
 <h4 align="left">
-<code><a href="https://www.linkedin.com/in/sa%C3%BAl-rodr%C3%ADguez-naranjo-90216120b/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
+<code><a href="https://www.linkedin.com/in/sa%C3%BAl-rodr%C3%ADguez-naranjo-90216120b/" title="LinkedIn Profile"><img width="22" src="images/linkedin.png"> LinkedIn</a></code>
 </h5>
 
 
